@@ -1,0 +1,6 @@
+ www.robotstxt.org/
+# 机器人扫描限制文件
+# 允许爬行所有内容
+# Allow crawling of all content
+User-agent: *
+Disallow:
